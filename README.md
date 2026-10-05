@@ -1,77 +1,68 @@
 <!-- =========================================================
-     MAYIL HUSEYNOV · GITHUB PROFILE
+     MAYIL HUSEYNOV · PROFILE README
+     SELF-CONTAINED / NO EXTERNAL ASSETS
      ========================================================= -->
 
-<!-- ========================= HERO ========================= -->
+<h1 align="center">Mayil Huseynov</h1>
 
 <p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:6D28D9,45:2563EB,100:06B6D4&text=Mayil%20Huseynov&fontSize=54&fontColor=F8FAFC&fontAlignY=39&desc=Data%20Analytics%20%C2%B7%20Business%20Intelligence%20%C2%B7%20Operations&descAlignY=61&descSize=17&animation=twinkling"
-    alt="Mayil Huseynov"
-  />
+  <b>Operations Coordinator × Junior Data Analyst</b>
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=67E8F9&center=true&vCenter=true&width=850&lines=Junior+Data+Analyst+%C3%97+Operations+Coordinator;SQL+%2B+Python+%2B+BI+%3D+better+decisions;Clean+data.+Clear+visuals.+Useful+answers.;Currently+building+stronger+analytical+workflows..."
-    alt="Animated introduction"
-  />
+  Data Analytics · Business Intelligence · Operations
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/●_SYSTEM-ONLINE-111827?style=for-the-badge&color=22C55E" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/FOCUS-DATA_ANALYTICS-111827?style=for-the-badge&color=8B5CF6" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/BASED_IN-BAKU-111827?style=for-the-badge&color=06B6D4" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/REMOTE-READY-111827?style=for-the-badge&color=F59E0B" />
+  🟢 <b>ACTIVE</b>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  📍 Baku, Azerbaijan
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  🌍 Remote-ready
 </p>
 
 <br>
 
-<!-- ========================= INTRO ========================= -->
+---
+
+## `00 / PROFILE`
 
 <table>
 <tr>
+<td width="62%" valign="top">
 
-<td width="62%" valign="middle">
+### From systems to signals.
 
-## Hey, I'm Mayil 👋
+I'm **Mayil Huseynov**, an Operations Coordinator and Junior Data Analyst with a background in **Mechatronics & Robotics Engineering**.
 
-I'm an **Operations Coordinator** and **Junior Data Analyst** with an academic background in **Mechatronics & Robotics Engineering**.
+I enjoy working at the point where raw information becomes something useful:
 
-I enjoy working where **data, operations and problem-solving** meet.
+**a pattern, an explanation, a decision.**
 
-For me, analytics is not only about writing queries or building dashboards. The interesting part is understanding:
+For me, analysis is not finished when the query runs successfully or when the dashboard looks good.
 
-**What happened? Why did it happen? Does it matter? What should happen next?**
-
-I use **SQL, Python, Excel, Tableau and Power BI** to turn scattered information into something structured, understandable and useful.
-
-</td>
-
-<td width="38%" align="center" valign="middle">
-
-### ⚡ Current Mode
-
-<img src="https://img.shields.io/badge/SQL-STRENGTHENING-2563EB?style=for-the-badge" />
-
-<br>
-
-<img src="https://img.shields.io/badge/PYTHON-BUILDING-7C3AED?style=for-the-badge" />
-
-<br>
-
-<img src="https://img.shields.io/badge/BI-REFINING-06B6D4?style=for-the-badge" />
-
-<br>
-
-<img src="https://img.shields.io/badge/BUSINESS_THINKING-DEVELOPING-F59E0B?style=for-the-badge" />
+It is finished when the result actually makes sense.
 
 </td>
 
+<td width="38%" valign="top">
+
+### `CURRENT MODE`
+
+```text
+SQL             ●●●●○
+Python          ●●●●○
+Visualization   ●●●●●
+Business Logic  ●●●●○
+Curiosity       ●●●●●
+```
+
+🟣 building  
+🔵 analyzing  
+🟢 validating  
+🟠 improving
+
+</td>
 </tr>
 </table>
 
@@ -79,75 +70,60 @@ I use **SQL, Python, Excel, Tableau and Power BI** to turn scattered information
 
 ---
 
-<!-- ========================= TOOLKIT ========================= -->
-
-<h2 align="center">⚙️ Analytical Toolkit</h2>
+## `01 / TOOLBOX`
 
 <p align="center">
-  <sub>tools currently in active rotation</sub>
-</p>
-
-<br>
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,tensorflow&theme=dark"
-    alt="Core tools"
-  />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  🐍 <b>Python</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  🗄️ <b>SQL</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  📊 <b>Tableau</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  📈 <b>Power BI</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  🧮 <b>Excel</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  Pandas
+  &nbsp;·&nbsp;
+  NumPy
+  &nbsp;·&nbsp;
+  Matplotlib
+  &nbsp;·&nbsp;
+  scikit-learn
+  &nbsp;·&nbsp;
+  MySQL
+  &nbsp;·&nbsp;
+  Jupyter
+  &nbsp;·&nbsp;
+  Git
 </p>
-
-<br>
-
----
-
-<!-- ========================= WHAT I DO ========================= -->
-
-<h2 align="center">🧩 What I Like Working On</h2>
 
 <br>
 
 <table>
 <tr>
 
-<td width="33%" align="center" valign="top">
+<td width="33%" valign="top">
 
-### 🔎 Explore
+### 🟣 ANALYZE
 
-Finding patterns, anomalies and relationships hidden inside raw data.
+`SQL`
 
-<br>
+`Python`
 
-`EDA`
+`Pandas`
 
-`SQL Analysis`
+`NumPy`
 
-`Segmentation`
+Finding patterns, anomalies and relationships.
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td width="33%" valign="top">
 
-### 📊 Visualize
-
-Turning analytical results into dashboards that are easier to understand.
-
-<br>
+### 🔵 VISUALIZE
 
 `Tableau`
 
@@ -155,15 +131,13 @@ Turning analytical results into dashboards that are easier to understand.
 
 `Matplotlib`
 
+Making the important signal easier to see.
+
 </td>
 
-<td width="33%" align="center" valign="top">
+<td width="33%" valign="top">
 
-### 💡 Explain
-
-Connecting technical results to business context and practical decisions.
-
-<br>
+### 🟢 EXPLAIN
 
 `KPIs`
 
@@ -171,6 +145,8 @@ Connecting technical results to business context and practical decisions.
 
 `Recommendations`
 
+Connecting analysis to real decisions.
+
 </td>
 
 </tr>
@@ -180,174 +156,50 @@ Connecting technical results to business context and practical decisions.
 
 ---
 
-<!-- ========================= LIVE LAB ========================= -->
+## `02 / ANALYTICAL MODE`
 
-<h2 align="center">🧪 Live Lab</h2>
-
-<p align="center">
-  <sub>what I'm building, sharpening and exploring right now</sub>
-</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2300&pause=650&color=A78BFA&center=true&vCenter=true&width=800&lines=↳+sharpening+analytical+SQL;↳+building+cleaner+Python+workflows;↳+designing+better+dashboard+stories;↳+connecting+metrics+to+business+decisions;↳+learning+by+building+real+projects"
-    alt="Live lab animation"
-  />
-</p>
-
-<br>
+> **Question first. Tool second.**
 
 <table>
 <tr>
 
-<td width="33%" align="center" valign="top">
-
-### 🛠 BUILD
-
-<img src="https://img.shields.io/badge/Python-EDA-7C3AED?style=flat-square&logo=python&logoColor=white" />
-
-<br>
-
-<img src="https://img.shields.io/badge/SQL-Analysis-2563EB?style=flat-square&logo=mysql&logoColor=white" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Tableau-Dashboards-06B6D4?style=flat-square&logo=tableau&logoColor=white" />
-
-<br><br>
-
-<sub>
-Turning raw datasets into complete analytical workflows.
-</sub>
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-### ⚡ SHARPEN
-
-<img src="https://img.shields.io/badge/Window_Functions-learning-8B5CF6?style=flat-square" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Validation-double_check-22C55E?style=flat-square" />
-
-<br>
-
-<img src="https://img.shields.io/badge/KPI_Thinking-business_first-F59E0B?style=flat-square" />
-
-<br><br>
-
-<sub>
-Improving the reasoning behind the analysis — not only the syntax.
-</sub>
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-### 🔭 EXPLORE
-
-<img src="https://img.shields.io/badge/Customer-Behavior-EC4899?style=flat-square" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Operations-Analytics-14B8A6?style=flat-square" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Machine_Learning-next_step-F97316?style=flat-square" />
-
-<br><br>
-
-<sub>
-Exploring where analytics can explain systems, behavior and decisions.
-</sub>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<p align="center">
-  <img
-    width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=normanland&bg_color=0D1117&color=94A3B8&line=8B5CF6&point=67E8F9&area=true&area_color=312E81&hide_border=true&custom_title="
-    alt="Mayil Huseynov GitHub activity"
-  />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/BUILD-→-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/ANALYZE-→-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/VALIDATE-→-06B6D4?style=flat-square" />
-  <img src="https://img.shields.io/badge/EXPLAIN-✓-22C55E?style=flat-square" />
-</p>
-
-<p align="center">
-  <i>Not collecting green squares — building better analytical instincts.</i>
-</p>
-
-<br>
-
----
-
-<!-- ========================= THINKING STYLE ========================= -->
-
-<h2 align="center">🧠 How I Think About Data</h2>
-
-<br>
-
-<table>
-<tr>
-
-<td width="25%" align="center" valign="top">
+<td width="25%" align="center">
 
 ### 01
 
-### Ask
+**ASK**
 
-<sub>
-The analysis is only as useful as the question being asked.
-</sub>
+What are we actually trying to understand?
 
 </td>
 
-<td width="25%" align="center" valign="top">
+<td width="25%" align="center">
 
 ### 02
 
-### Check
+**ANALYZE**
 
-<sub>
-Interesting results still need validation.
-</sub>
+What does the data show?
 
 </td>
 
-<td width="25%" align="center" valign="top">
+<td width="25%" align="center">
 
 ### 03
 
-### Simplify
+**VALIDATE**
 
-<sub>
-Complexity should not become the final product.
-</sub>
+Can the result survive a second check?
 
 </td>
 
-<td width="25%" align="center" valign="top">
+<td width="25%" align="center">
 
 ### 04
 
-### Act
+**EXPLAIN**
 
-<sub>
-An insight should eventually support a decision.
-</sub>
+What should happen next?
 
 </td>
 
@@ -358,10 +210,15 @@ An insight should eventually support a decision.
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/QUESTION-FIRST-6D28D9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/VALIDATE-TWICE-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/KEEP_IT-CLEAR-06B6D4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MAKE_IT-USEFUL-22C55E?style=for-the-badge" />
+`ASK`
+&nbsp;→&nbsp;
+`QUERY`
+&nbsp;→&nbsp;
+`ANALYZE`
+&nbsp;→&nbsp;
+`VALIDATE`
+&nbsp;→&nbsp;
+`EXPLAIN`
 
 </p>
 
@@ -369,40 +226,156 @@ An insight should eventually support a decision.
 
 ---
 
-<!-- ========================= ENGINEERING ROOTS ========================= -->
+## `03 / LIVE LAB`
+
+<p align="center">
+  <b>Things currently receiving most of my attention</b>
+</p>
 
 <table>
 <tr>
 
-<td width="60%" valign="middle">
+<td width="33%" valign="top">
 
-## 🤖 Somewhere between engineering and analytics...
+### 🛠 BUILD
 
-My background is in **Mechatronics & Robotics Engineering**.
+**Python workflows**
 
-Engineering trained me to look at systems as connected components rather than isolated pieces.
+From cleaning and EDA to useful analytical output.
 
-That mindset stayed with me when I moved deeper into analytics.
+**SQL analysis**
 
-Now, instead of only asking how a system behaves, I also ask what the **data generated by that system can tell us**.
+Queries built around business questions instead of syntax exercises.
 
 </td>
 
-<td width="40%" align="center" valign="middle">
+<td width="33%" valign="top">
 
-<img src="https://img.shields.io/badge/ENGINEERING-→-7C3AED?style=for-the-badge" />
+### ⚡ SHARPEN
 
-<br><br>
+**Analytical SQL**
 
-<img src="https://img.shields.io/badge/SYSTEMS-→-2563EB?style=for-the-badge" />
+CTEs · window functions · deeper query logic
 
-<br><br>
+**Validation**
 
-<img src="https://img.shields.io/badge/DATA-→-06B6D4?style=for-the-badge" />
+Checking results before interpreting them.
 
-<br><br>
+</td>
 
-<img src="https://img.shields.io/badge/DECISIONS-✓-22C55E?style=for-the-badge" />
+<td width="33%" valign="top">
+
+### 🔭 EXPLORE
+
+**Customer behavior**
+
+**Operations analytics**
+
+**Machine learning**
+
+Understanding where more advanced methods actually add value.
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+### `lab.status`
+
+```diff
++ analytical SQL           strengthening
++ Python workflows         building
++ dashboard storytelling   refining
++ business context         developing
++ double validation        always active
+```
+
+<br>
+
+---
+
+## `04 / SIGNAL`
+
+Instead of traditional GitHub streak cards:
+
+<table>
+<tr>
+
+<td width="58%" valign="top">
+
+### Development Momentum
+
+```text
+LEARN      ████████░░
+BUILD      █████████░
+ANALYZE    █████████░
+VALIDATE   ██████████
+IMPROVE    █████████░
+```
+
+This is the part I care about more than maintaining a decorative streak:
+
+**Is the work getting better?**
+
+</td>
+
+<td width="42%" valign="top">
+
+### Recent Signal
+
+🟣 **SQL**  
+deeper analytical reasoning
+
+🔵 **Python**  
+cleaner workflows
+
+🟢 **BI**  
+clearer storytelling
+
+🟠 **Business**  
+stronger recommendations
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+> **Consistency matters. Artificial streaks don't.**
+
+<br>
+
+---
+
+## `05 / DATA I LIKE WORKING WITH`
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 👥 People & Behavior
+
+- Customer analytics
+- Retention
+- Segmentation
+- Workforce analytics
+- Behavioral patterns
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ Business & Operations
+
+- Operations analytics
+- Sales analysis
+- KPI monitoring
+- Business intelligence
+- Process improvement
 
 </td>
 
@@ -413,36 +386,129 @@ Now, instead of only asking how a system behaves, I also ask what the **data gen
 
 ---
 
-<!-- ========================= CURRENT DIRECTION ========================= -->
+## `06 / ENGINEERING DNA`
 
-<h2 align="center">🚀 Current Direction</h2>
+My original field is **Mechatronics & Robotics Engineering**.
+
+That background still influences how I work with data.
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+### ENGINEERING
+
+⚙️
+
+inputs
+
+systems
+
+behavior
+
+feedback
+
+</td>
+
+<td width="50%" align="center">
+
+### ANALYTICS
+
+📊
+
+data
+
+patterns
+
+insights
+
+decisions
+
+</td>
+
+</tr>
+</table>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2700&pause=700&color=22C55E&center=true&vCenter=true&width=780&lines=learn+something+→+build+something;build+something+→+break+something;break+something+→+understand+something;understand+something+→+build+it+better"
-    alt="Current direction"
-  />
+  <b>Different domain. Similar way of thinking.</b>
 </p>
+
+<br>
+
+---
+
+## `07 / RULES I TRY TO FOLLOW`
+
+```diff
++ understand the problem before choosing the tool
+
++ inspect the data before trusting the data
+
++ validate unusual results
+
++ prefer clarity over unnecessary complexity
+
++ use visuals to communicate, not decorate
+
++ explain metrics in business language
+
++ finish with something actionable
+```
+
+<br>
+
+---
+
+## `08 / CURRENT DIRECTION`
+
+<table>
+<tr>
+
+<td width="25%" align="center">
+
+### 🟣
+**SQL**
+
+Deeper analytical reasoning
+
+</td>
+
+<td width="25%" align="center">
+
+### 🔵
+**Python**
+
+Independent analytical workflows
+
+</td>
+
+<td width="25%" align="center">
+
+### 🟢
+**BI**
+
+Better visual communication
+
+</td>
+
+<td width="25%" align="center">
+
+### 🟠
+**Business**
+
+Stronger decision context
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
 <p align="center">
 
-`Data Analytics`
-&nbsp;&nbsp;•&nbsp;&nbsp;
-`Business Intelligence`
-&nbsp;&nbsp;•&nbsp;&nbsp;
-`Operations Analytics`
-
-<br><br>
-
-`Customer Analytics`
-&nbsp;&nbsp;•&nbsp;&nbsp;
-`Retention`
-&nbsp;&nbsp;•&nbsp;&nbsp;
-`Data Visualization`
-&nbsp;&nbsp;•&nbsp;&nbsp;
-`Automation`
+**learn** → **build** → **test** → **understand** → **improve**
 
 </p>
 
@@ -450,56 +516,48 @@ Now, instead of only asking how a system behaves, I also ask what the **data gen
 
 ---
 
-<!-- ========================= CONNECT ========================= -->
+## `09 / A SMALL STATUS BOARD`
 
-<h2 align="center">🌐 Find Me Online</h2>
+```text
+╭────────────────────────────────────────────────╮
+│                                                │
+│  SYSTEM                         MAYIL / DATA    │
+│                                                │
+│  analytical curiosity               ONLINE ●   │
+│  learning mode                      ACTIVE ●   │
+│  project mode                       ACTIVE ●   │
+│  unnecessary complexity           DISABLED ○   │
+│                                                │
+│  next objective: better questions              │
+│                                                │
+╰────────────────────────────────────────────────╯
+```
 
 <br>
 
+---
+
+## `10 / CONNECT`
+
 <p align="center">
 
-<a href="https://www.linkedin.com/in/mayil-huseynov/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Mayil_Huseynov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-
-&nbsp;
-
-<a href="https://public.tableau.com/app/profile/mayil.huseynov">
-  <img
-    src="https://img.shields.io/badge/Tableau-View_Dashboards-E97627?style=for-the-badge&logo=tableau&logoColor=white"
-    alt="Tableau Public"
-  />
-</a>
-
-&nbsp;
-
-<a href="https://github.com/normanland">
-  <img
-    src="https://img.shields.io/badge/GitHub-normanland-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
+<a href="https://www.linkedin.com/in/mayil-huseynov/"><b>LinkedIn</b></a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://public.tableau.com/app/profile/mayil.huseynov"><b>Tableau Public</b></a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://github.com/normanland"><b>GitHub</b></a>
 
 </p>
 
 <br>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3200&pause=900&color=94A3B8&center=true&vCenter=true&width=650&lines=still+learning...;still+building...;still+testing...;still+asking+better+questions..."
-    alt="Footer animation"
-  />
+  🟣 learn &nbsp;&nbsp;
+  🔵 build &nbsp;&nbsp;
+  🟢 validate &nbsp;&nbsp;
+  🟠 improve
 </p>
 
-<!-- ========================= FOOTER ========================= -->
-
 <p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:06B6D4,45:2563EB,100:6D28D9"
-    alt=""
-  />
+  <sub>still building better analytical instincts.</sub>
 </p>
