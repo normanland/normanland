@@ -271,13 +271,41 @@ Exploring where analytics can explain systems, behavior and decisions.
 
 <br>
 
-<p align="center">
-  <img
-    width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=normanland&bg_color=0D1117&color=94A3B8&line=8B5CF6&point=67E8F9&area=true&area_color=312E81&hide_border=true&custom_title="
-    alt="Mayil Huseynov GitHub activity"
-  />
-</p>
+### `momentum.board`
+
+<table>
+<tr>
+
+<td width="55%" valign="top">
+
+```text
+LEARN        ████████░░
+BUILD        █████████░
+ANALYZE      █████████░
+VALIDATE     ██████████
+IMPROVE      █████████░
+```
+
+<sub>
+A more meaningful version of "streak" for me:
+not just showing activity, but showing momentum.
+</sub>
+
+</td>
+
+<td width="45%" valign="top">
+
+### Signal Right Now
+
+🟣 **SQL** — deeper query thinking  
+🔵 **Python** — cleaner workflows  
+🟢 **BI** — clearer storytelling  
+🟠 **Business** — stronger recommendations  
+
+</td>
+
+</tr>
+</table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/BUILD-→-7C3AED?style=flat-square" />
@@ -287,7 +315,7 @@ Exploring where analytics can explain systems, behavior and decisions.
 </p>
 
 <p align="center">
-  <i>Not collecting green squares — building better analytical instincts.</i>
+  <i>Consistency matters more than decorative streaks.</i>
 </p>
 
 <br>
@@ -417,11 +445,80 @@ Now, instead of only asking how a system behaves, I also ask what the **data gen
 
 <h2 align="center">🚀 Current Direction</h2>
 
+<br>
+
+<table>
+<tr>
+
+<td width="25%" align="center" valign="top">
+
+### 🟣 SQL
+
+Deeper analytical reasoning
+
+<sub>
+CTEs · window functions · cleaner logic
+</sub>
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+### 🔵 Python
+
+Independent analytical workflows
+
+<sub>
+cleaning · EDA · transformation
+</sub>
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+### 🟢 BI
+
+Better visual communication
+
+<sub>
+dashboards · KPIs · storytelling
+</sub>
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+### 🟠 Business
+
+Stronger decision context
+
+<sub>
+insight → impact → action
+</sub>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+### `direction.map`
+
+```text
+SQL
+  ↓
+Python
+  ↓
+Visualization
+  ↓
+Business Context
+  ↓
+Better Decisions
+```
+
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2700&pause=700&color=22C55E&center=true&vCenter=true&width=780&lines=learn+something+→+build+something;build+something+→+break+something;break+something+→+understand+something;understand+something+→+build+it+better"
-    alt="Current direction"
-  />
+  <b>learn → build → test → understand → improve</b>
 </p>
 
 <br>
@@ -458,7 +555,7 @@ Now, instead of only asking how a system behaves, I also ask what the **data gen
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/mayil-huseynov/">
+<a href="https://www.linkedin.com/in/mayil-huseynov">
   <img
     src="https://img.shields.io/badge/LinkedIn-Mayil_Huseynov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
