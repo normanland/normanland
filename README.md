@@ -1,9 +1,8 @@
-<!-- ===================================================== -->
-<!--                MAYIL HUSEYNOV PROFILE                 -->
-<!--              NEON / MOTION README v3                  -->
-<!-- ===================================================== -->
+<!-- =========================================================
+     MAYIL HUSEYNOV · GITHUB PROFILE
+     ========================================================= -->
 
-<!-- HERO -->
+<!-- ========================= HERO ========================= -->
 
 <p align="center">
   <img
@@ -13,43 +12,26 @@
   />
 </p>
 
-
-<!-- ANIMATED INTRO -->
-
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=67E8F9&center=true&vCenter=true&width=850&lines=Junior+Data+Analyst+%E2%80%A2+Operations+Coordinator;SQL+%2B+Python+%2B+BI+%3D+better+decisions;I+like+clean+data%2C+clear+visuals+and+useful+answers;Currently+building+stronger+analytical+workflows..."
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=67E8F9&center=true&vCenter=true&width=850&lines=Junior+Data+Analyst+%C3%97+Operations+Coordinator;SQL+%2B+Python+%2B+BI+%3D+better+decisions;Clean+data.+Clear+visuals.+Useful+answers.;Currently+building+stronger+analytical+workflows..."
     alt="Animated introduction"
   />
 </p>
 
-
-<!-- LIVE STATUS -->
-
 <p align="center">
-
-  <img
-    src="https://img.shields.io/badge/●_SYSTEM-ONLINE-0F172A?style=for-the-badge&labelColor=111827&color=22C55E"
-  />
-
-  <img
-    src="https://img.shields.io/badge/FOCUS-DATA_ANALYTICS-0F172A?style=for-the-badge&labelColor=111827&color=8B5CF6"
-  />
-
-  <img
-    src="https://img.shields.io/badge/BASED_IN-BAKU-0F172A?style=for-the-badge&labelColor=111827&color=06B6D4"
-  />
-
-  <img
-    src="https://img.shields.io/badge/REMOTE-READY-0F172A?style=for-the-badge&labelColor=111827&color=F59E0B"
-  />
-
+  <img src="https://img.shields.io/badge/●_SYSTEM-ONLINE-111827?style=for-the-badge&color=22C55E" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/FOCUS-DATA_ANALYTICS-111827?style=for-the-badge&color=8B5CF6" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/BASED_IN-BAKU-111827?style=for-the-badge&color=06B6D4" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/REMOTE-READY-111827?style=for-the-badge&color=F59E0B" />
 </p>
 
 <br>
 
-
-<!-- INTRO -->
+<!-- ========================= INTRO ========================= -->
 
 <table>
 <tr>
@@ -60,13 +42,13 @@
 
 I'm an **Operations Coordinator** and **Junior Data Analyst** with an academic background in **Mechatronics & Robotics Engineering**.
 
-What interests me most is the point where technical analysis becomes something useful for a real decision.
+I enjoy working where **data, operations and problem-solving** meet.
 
-I work with data to answer questions such as:
+For me, analytics is not only about writing queries or building dashboards. The interesting part is understanding:
 
-**What happened? Why did it happen? What matters? What should happen next?**
+**What happened? Why did it happen? Does it matter? What should happen next?**
 
-I currently spend most of my time improving my **SQL**, **Python**, **dashboarding**, and **business-analysis** skills.
+I use **SQL, Python, Excel, Tableau and Power BI** to turn scattered information into something structured, understandable and useful.
 
 </td>
 
@@ -97,47 +79,44 @@ I currently spend most of my time improving my **SQL**, **Python**, **dashboardi
 
 ---
 
-<!-- TECH -->
+<!-- ========================= TOOLKIT ========================= -->
 
-<h2 align="center">⚙️ My Analytical Toolkit</h2>
+<h2 align="center">⚙️ Analytical Toolkit</h2>
 
 <p align="center">
-  <sub>the tools currently in active rotation</sub>
+  <sub>tools currently in active rotation</sub>
 </p>
 
 <br>
 
 <p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,tensorflow&theme=dark"
+    alt="Core tools"
+  />
+</p>
 
-<img
-  src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,tensorflow&theme=dark"
-  alt="Core tools"
-/>
+<br>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 <br>
 
 ---
 
-<!-- WHAT I DO -->
+<!-- ========================= WHAT I DO ========================= -->
 
 <h2 align="center">🧩 What I Like Working On</h2>
 
@@ -152,8 +131,12 @@ I currently spend most of my time improving my **SQL**, **Python**, **dashboardi
 
 Finding patterns, anomalies and relationships hidden inside raw data.
 
-`EDA`  
-`SQL Analysis`  
+<br>
+
+`EDA`
+
+`SQL Analysis`
+
 `Segmentation`
 
 </td>
@@ -164,8 +147,12 @@ Finding patterns, anomalies and relationships hidden inside raw data.
 
 Turning analytical results into dashboards that are easier to understand.
 
-`Tableau`  
-`Power BI`  
+<br>
+
+`Tableau`
+
+`Power BI`
+
 `Matplotlib`
 
 </td>
@@ -176,8 +163,12 @@ Turning analytical results into dashboards that are easier to understand.
 
 Connecting technical results to business context and practical decisions.
 
-`KPIs`  
-`Insights`  
+<br>
+
+`KPIs`
+
+`Insights`
+
 `Recommendations`
 
 </td>
@@ -189,22 +180,121 @@ Connecting technical results to business context and practical decisions.
 
 ---
 
-<!-- MOVING CURRENT FOCUS -->
+<!-- ========================= LIVE LAB ========================= -->
 
-<h2 align="center">🔴 Live Focus</h2>
+<h2 align="center">🧪 Live Lab</h2>
+
+<p align="center">
+  <sub>what I'm building, sharpening and exploring right now</sub>
+</p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2200&pause=500&color=A78BFA&center=true&vCenter=true&width=760&lines=advanced+SQL+thinking...;cleaner+Python+analysis...;better+dashboard+storytelling...;connecting+metrics+to+business+decisions...;building+projects+that+actually+teach+me+something..."
-    alt="Current focus"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2300&pause=650&color=A78BFA&center=true&vCenter=true&width=800&lines=↳+sharpening+analytical+SQL;↳+building+cleaner+Python+workflows;↳+designing+better+dashboard+stories;↳+connecting+metrics+to+business+decisions;↳+learning+by+building+real+projects"
+    alt="Live lab animation"
   />
+</p>
+
+<br>
+
+<table>
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+### 🛠 BUILD
+
+<img src="https://img.shields.io/badge/Python-EDA-7C3AED?style=flat-square&logo=python&logoColor=white" />
+
+<br>
+
+<img src="https://img.shields.io/badge/SQL-Analysis-2563EB?style=flat-square&logo=mysql&logoColor=white" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Tableau-Dashboards-06B6D4?style=flat-square&logo=tableau&logoColor=white" />
+
+<br><br>
+
+<sub>
+Turning raw datasets into complete analytical workflows.
+</sub>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### ⚡ SHARPEN
+
+<img src="https://img.shields.io/badge/Window_Functions-learning-8B5CF6?style=flat-square" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Validation-double_check-22C55E?style=flat-square" />
+
+<br>
+
+<img src="https://img.shields.io/badge/KPI_Thinking-business_first-F59E0B?style=flat-square" />
+
+<br><br>
+
+<sub>
+Improving the reasoning behind the analysis — not only the syntax.
+</sub>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### 🔭 EXPLORE
+
+<img src="https://img.shields.io/badge/Customer-Behavior-EC4899?style=flat-square" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Operations-Analytics-14B8A6?style=flat-square" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Machine_Learning-next_step-F97316?style=flat-square" />
+
+<br><br>
+
+<sub>
+Exploring where analytics can explain systems, behavior and decisions.
+</sub>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=normanland&bg_color=0D1117&color=94A3B8&line=8B5CF6&point=67E8F9&area=true&area_color=312E81&hide_border=true&custom_title="
+    alt="Mayil Huseynov GitHub activity"
+  />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BUILD-→-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/ANALYZE-→-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/VALIDATE-→-06B6D4?style=flat-square" />
+  <img src="https://img.shields.io/badge/EXPLAIN-✓-22C55E?style=flat-square" />
+</p>
+
+<p align="center">
+  <i>Not collecting green squares — building better analytical instincts.</i>
 </p>
 
 <br>
 
 ---
 
-<!-- PERSONAL STYLE -->
+<!-- ========================= THINKING STYLE ========================= -->
 
 <h2 align="center">🧠 How I Think About Data</h2>
 
@@ -213,43 +303,106 @@ Connecting technical results to business context and practical decisions.
 <table>
 <tr>
 
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
 ### 01
 
-**Ask better questions**
+### Ask
 
-<sub>The analysis is only as useful as the problem being asked.</sub>
+<sub>
+The analysis is only as useful as the question being asked.
+</sub>
 
 </td>
 
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
 ### 02
 
-**Check twice**
+### Check
 
-<sub>Interesting results still need validation.</sub>
+<sub>
+Interesting results still need validation.
+</sub>
 
 </td>
 
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
 ### 03
 
-**Keep it clear**
+### Simplify
 
-<sub>Complexity should not become the final product.</sub>
+<sub>
+Complexity should not become the final product.
+</sub>
 
 </td>
 
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
 ### 04
 
-**Make it useful**
+### Act
 
-<sub>An insight should eventually support an action.</sub>
+<sub>
+An insight should eventually support a decision.
+</sub>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/QUESTION-FIRST-6D28D9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/VALIDATE-TWICE-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/KEEP_IT-CLEAR-06B6D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MAKE_IT-USEFUL-22C55E?style=for-the-badge" />
+
+</p>
+
+<br>
+
+---
+
+<!-- ========================= ENGINEERING ROOTS ========================= -->
+
+<table>
+<tr>
+
+<td width="60%" valign="middle">
+
+## 🤖 Somewhere between engineering and analytics...
+
+My background is in **Mechatronics & Robotics Engineering**.
+
+Engineering trained me to look at systems as connected components rather than isolated pieces.
+
+That mindset stayed with me when I moved deeper into analytics.
+
+Now, instead of only asking how a system behaves, I also ask what the **data generated by that system can tell us**.
+
+</td>
+
+<td width="40%" align="center" valign="middle">
+
+<img src="https://img.shields.io/badge/ENGINEERING-→-7C3AED?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SYSTEMS-→-2563EB?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/DATA-→-06B6D4?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/DECISIONS-✓-22C55E?style=for-the-badge" />
 
 </td>
 
@@ -260,63 +413,36 @@ Connecting technical results to business context and practical decisions.
 
 ---
 
-<!-- GITHUB VISUALS -->
+<!-- ========================= CURRENT DIRECTION ========================= -->
 
-<h2 align="center">📡 GitHub Signal</h2>
-
-<br>
+<h2 align="center">🚀 Current Direction</h2>
 
 <p align="center">
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=normanland&show_icons=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9&icon_color=A78BFA&ring_color=06B6D4"
-  alt="GitHub stats"
-/>
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=normanland&layout=compact&hide_border=true&bg_color=0D1117&title_color=F59E0B&text_color=C9D1D9"
-  alt="Top languages"
-/>
-
-</p>
-
-<p align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=normanland&hide_border=true&background=0D1117&stroke=334155&ring=8B5CF6&fire=F59E0B&currStreakLabel=67E8F9&sideLabels=A7B4C5&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B"
-  alt="GitHub streak"
-/>
-
-</p>
-
-<br>
-
----
-
-<!-- SMALL PERSONAL TOUCH -->
-
-<h2 align="center">✨ Somewhere between engineering and analytics...</h2>
-
-<p align="center">
-
-Mechatronics taught me to understand **systems**.
-
-Analytics taught me to understand **signals**.
-
-Now I enjoy working where the two ways of thinking overlap.
-
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2700&pause=700&color=22C55E&center=true&vCenter=true&width=780&lines=learn+something+→+build+something;build+something+→+break+something;break+something+→+understand+something;understand+something+→+build+it+better"
+    alt="Current direction"
+  />
 </p>
 
 <br>
 
 <p align="center">
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1000&color=22C55E&center=true&vCenter=true&width=620&lines=still+learning...;still+building...;still+testing...;still+asking+better+questions..."
-  alt="Footer animation"
-/>
+`Data Analytics`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Business Intelligence`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Operations Analytics`
+
+<br><br>
+
+`Customer Analytics`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Retention`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Data Visualization`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Automation`
 
 </p>
 
@@ -324,15 +450,18 @@ Now I enjoy working where the two ways of thinking overlap.
 
 ---
 
-<!-- CONNECT -->
+<!-- ========================= CONNECT ========================= -->
 
-<h2 align="center">🌐 Let's Connect</h2>
+<h2 align="center">🌐 Find Me Online</h2>
+
+<br>
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/mayil-huseynov/">
   <img
     src="https://img.shields.io/badge/LinkedIn-Mayil_Huseynov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
   />
 </a>
 
@@ -340,7 +469,8 @@ Now I enjoy working where the two ways of thinking overlap.
 
 <a href="https://public.tableau.com/app/profile/mayil.huseynov">
   <img
-    src="https://img.shields.io/badge/Tableau-Public-E97627?style=for-the-badge&logo=tableau&logoColor=white"
+    src="https://img.shields.io/badge/Tableau-View_Dashboards-E97627?style=for-the-badge&logo=tableau&logoColor=white"
+    alt="Tableau Public"
   />
 </a>
 
@@ -349,6 +479,7 @@ Now I enjoy working where the two ways of thinking overlap.
 <a href="https://github.com/normanland">
   <img
     src="https://img.shields.io/badge/GitHub-normanland-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
   />
 </a>
 
@@ -356,7 +487,14 @@ Now I enjoy working where the two ways of thinking overlap.
 
 <br>
 
-<!-- FOOTER -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3200&pause=900&color=94A3B8&center=true&vCenter=true&width=650&lines=still+learning...;still+building...;still+testing...;still+asking+better+questions..."
+    alt="Footer animation"
+  />
+</p>
+
+<!-- ========================= FOOTER ========================= -->
 
 <p align="center">
   <img
